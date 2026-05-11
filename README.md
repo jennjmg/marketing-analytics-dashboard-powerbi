@@ -5,6 +5,8 @@ Professional Power BI Marketing Analytics Dashboard with ROI, Funnel &amp; Campa
 
 A professional Power BI template designed to track, analyze, and optimize digital marketing performance.
 
+# 🚀 Get the full template here:
+https://jennjmg.gumroad.com/l/zspay
 ---
 
 ## 🚀 Features

@@ -1,0 +1,4 @@
+CampaignID,CampaignName,Platform,StartDate,EndDate,Status
+1,Brand Awareness Q1,Meta Ads,2023-01-10,2023-03-30,Completed
+2,Lead Gen Spring,Google Ads,2023-03-01,2023-06-30,Completed
+3,Retargeting Promo,LinkedIn Ads,2023-05-15,2023-07-15,Completed
